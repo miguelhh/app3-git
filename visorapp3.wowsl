@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>32</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>book</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/gothic/</ImageTemplate>
+            <ImageTemplateName>Gothic</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>I:/DAM/segundo parcial/aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>I:/DAM/segundo parcial/aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Didact Gothic</TemplateFont>
+            <TemplateName>gothic</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17690939_184076945443596_1096597038_n.jpg</url>
+                <title>Programacioncon en java</title>
+                <filesize>25209</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17740982_799176756903114_2093483693_n.jpg</url>
+                <title>ASP.NET 4.0</title>
+                <filesize>57560</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17760302_799176896903100_565609704_n.png</url>
+                <title>Estructura de datos</title>
+                <filesize>254362</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17792568_799176826903107_126928559_n.png</url>
+                <title>Comunicaciones y redes</title>
+                <filesize>207108</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17813845_799176823569774_1997749121_n.jpg</url>
+                <title>Redes de computadoras</title>
+                <filesize>109164</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17820894_799176693569787_1086789934_n.jpg</url>
+                <title>Fundamentos de redes</title>
+                <filesize>21608</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17820952_799176950236428_77409936_n.jpg</url>
+                <title>Visual C# 2010</title>
+                <filesize>59147</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17820987_799176726903117_207306805_n.jpg</url>
+                <title>Reparacion y mantenimiento</title>
+                <filesize>45150</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17821415_799176803569776_649945124_n.jpg</url>
+                <title>Como programar en java</title>
+                <filesize>96330</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/17821519_799176813569775_1132016786_n.jpg</url>
+                <title>Sistemas operativos</title>
+                <filesize>14088</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/segundo parcial/aplicaciones/app3/imagenes/IMG-20170406-WA0021-1.jpg</url>
+                <title>SQL server 2005</title>
+                <filesize>131675</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
